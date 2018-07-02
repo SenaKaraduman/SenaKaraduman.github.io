@@ -22,7 +22,7 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  HAKKIMDA: "aboutme"
+  Hakkımda: "aboutme"
 # Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #   - Learn markdown: "http://www.markdowntutorial.com/"
