@@ -20,7 +20,7 @@ ADD R25,R9
 SUB Rd,Rs
 SUB R25,R9
 ```
-* **SUB** komutu ile soldaki registırın değerinden sağdaki registırın değerini çıkararak elde ettiğimiz değeri soldaki registerın içinde atarız.
+* **SUB** komutu ile soldaki registerın değerinden sağdaki registerın değerini çıkararak elde ettiğimiz değeri soldaki registerın içinde atarız.
 
 ```sh
 INC Rd
@@ -70,18 +70,18 @@ BRCS L1
 ```
 
 
-```sh
-SBI PORTD, 0
-```
+ ```sh
+ SBI PORTD, 0
+ ```
 * **SBI** komutu Port 'un ilgili bitini 1 yapar.
 ```sh
 CBI PORTD, 0
 ```
 * **CBI** komutu Port 'un ilgili bitini 0 yapar.
 
-```sh
-SBIC PORTD, 0
-```
+ ```sh
+ SBIC PORTD, 0
+ ```
 * **SBIC** komutu, Port 'un ilgili bitine bakar ve o bit 0 ise bir sonraki komutu işletmez.
  ```sh
 SBIS PORTD, 0
@@ -114,6 +114,7 @@ LDI R16,0xAB
 SWAP R16
 ```
 > R16 registerımızın yeni değeri 0xBA olmuştur.
+
 ```sh
 SBRC R0,7
 ```
@@ -129,6 +130,7 @@ SBR R16,0xF0
 ```
 * **SBR** komutu, registerın belirtilen bitlerini set etmemize 1 yapmamıza yarar.
 > R16 registerının yeni içeriği 0xFB olmuştur.
+
 ```sh
 LDI R16,0xAB
 CBR R16,0xF0
