@@ -7,7 +7,7 @@ Merhaba, bu yazımda sizlere RISC ve CISC mimarileri hakkında bildiklerimi anla
 * CPU 'ya olabildiğince fazla karmaşık yönergeler koyulmuştur.
 * Hafızaya aritmetik komutlar ile erişebilir.
 * CISC daha karmaşık bir komut setine sahiptir.
-* CISC mimarisinde devre karmaşıklaşıyor. Adresleme modlarınında az olması işimizi daha zorlaştırıyor.
+* CISC mimarisinde devre karmaşıklaşıyor. Bu yüzden adresleme modlarının az olması işimizi daha zorlaştırıyor.
 * CISC mimarisinin asıl amacı bir işlemi en az komut ile en kısa yoldan yapmaktır.
 Daha az bellek kullanımı vardır.
 * Donanıma yönelik bir mimaridir.
