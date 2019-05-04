@@ -1,4 +1,3 @@
-# RISC ve CISC Mimarileri
 Merhaba, bu yazımda sizlere RISC ve CISC mimarileri hakkında bildiklerimi anlatmaya çalışacağım.
 
 #### CISC Mimarisi
