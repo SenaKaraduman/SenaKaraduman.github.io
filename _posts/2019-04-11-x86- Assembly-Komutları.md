@@ -1,4 +1,3 @@
-# Assembly Komutları
 Merhaba arkadaşlar, bu yazımda sizlere x86 mimarisinde en çok kullanılan assembly komutlarını anlatmaya çalışacağım.
 
 ```sh
