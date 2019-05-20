@@ -1,4 +1,4 @@
-![](http://senakaraduman.github.io/img/innoverakamp/innovera.png)
+![](http://senakaraduman.github.io/img/innoverakamp/innovera-logo.png)
 
 Merhaba arkadaşlar, bu yazımda size **Innovera** 'nın düzenlemiş olduğu 13-18 Mayıs tarihleri arasında gerçekleşen **Siber Kamp 2019** 'dan bahsetmek istiyorum. Kampın amacı, eğitim 'den sonra gerçekleşen CTF sonucunda başarılı olan kişiler ile staj süreci başlatmak. Kampa giriş sürecinden bahsedecek olursam;
 
