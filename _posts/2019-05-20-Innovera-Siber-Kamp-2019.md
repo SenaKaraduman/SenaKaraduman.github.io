@@ -1,3 +1,4 @@
+![](http://senakaraduman.github.io/img/innoverakamp/innovera.png)
 
 Merhaba arkadaşlar, bu yazımda size **Innovera** 'nın düzenlemiş olduğu 13-18 Mayıs tarihleri arasında gerçekleşen **Siber Kamp 2019** 'dan bahsetmek istiyorum. Kampın amacı, eğitim 'den sonra gerçekleşen CTF sonucunda başarılı olan kişiler ile staj süreci başlatmak. Kampa giriş sürecinden bahsedecek olursam;
 
@@ -25,4 +26,8 @@ Açıkçası daha önce zafiyetli bir makine çözmemiştim çünkü hep bir çe
 **CTF** günü :) 5 adet zafiyetli makinemiz vardı bu makineler üzerinde shell almaya ve yetki yükseltmeye çalıştık. Elde ettiğimiz haklar ile flag.txt dosyalarını okumaya çalıştık. Bulduğumuz flagleri panele girdik ve puanlarımızı kazandık. 
 
 Kendi adıma konuşacak olursam benim için eğlenceli ve çok güzel geçen bir 6 gündü. Sınıf olarak da o kısa süre içerisinde çabucak kaynaşıp iyi anlaşmıştık. Buradan kampı düzenleyen ve emeği geçen herkese teşekkür ederim. 5 gün boyunca bize eğitim veren ve değerli bilgilerini paylaşan [Barkın Kılıç](https://twitter.com/Barknkilic), [Emre Övünç](https://twitter.com/EmreOvunc), [Seren Porsuk](https://twitter.com/_statex), [Ahmet Gürel](https://twitter.com/ahmettgurell), [Hakkı Can Karacan](https://twitter.com/cankaracan0) hocalarıma da ayrıca çok teşekkür ederim. :)
+
+![](http://senakaraduman.github.io/img/innoverakamp/sınıf1.jpeg)
+![](http://senakaraduman.github.io/img/innoverakamp/sınıf2.jpeg)
+
 
